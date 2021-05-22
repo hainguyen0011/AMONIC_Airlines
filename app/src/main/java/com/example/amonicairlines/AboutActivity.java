@@ -15,7 +15,7 @@ public class AboutActivity extends AppCompatActivity {
         setContentView(R.layout.activity_about);
     }
 
-    public void onBackClick(View view){
-
+    public void onBackClick(View view) {
+        super.onBackPressed();
     }
 }
