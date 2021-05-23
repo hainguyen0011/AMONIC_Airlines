@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servicelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<service>
+		<name>Extra Blanket</name>
+		<cost>10</cost>
+	</service>
+	<service>
+		<name>Next Seat Free</name>
+		<cost>30</cost>
+	</service>
+	<service>
+		<name>Two Neighboring Seats Free</name>
+		<cost>50</cost>
+	</service>
+	<service>
+		<name>Tablet Rental</name>
+		<cost>12</cost>
+	</service>
+	<service>
+		<name>Laptop Rental</name>
+		<cost>15</cost>
+	</service>
+	<service>
+		<name>Lounge Access</name>
+		<cost>25</cost>
+	</service>
+	<service>
+		<name>Soft Drinks</name>
+		<cost>0</cost>
+	</service>
+	<service>
+		<name>Premium Headphones Rental</name>
+		<cost>5</cost>
+	</service>
+	<service>
+		<name>Extra Bag</name>
+		<cost>15</cost>
+	</service>
+	<service>
+		<name>Fast Checkin Lane</name>
+		<cost>10</cost>
+	</service>
+	<service>
+		<name>Wi-Fi 50 mb</name>
+		<cost>0</cost>
+	</service>
+	<service>
+		<name>Wi-Fi 250 mb</name>
+		<cost>25</cost>
+	</service>
+</servicelist>
